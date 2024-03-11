@@ -1,0 +1,56 @@
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\bin\Debug\SimpleMVVMExample.exe
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\bin\Debug\SimpleMVVMExample.pdb
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\App.baml
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample_MarkupCompile.cache
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample_MarkupCompile.lref
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\ProductView.baml
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.g.resources
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.Properties.Resources.resources
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.exe
+C:\Documents and Settings\rlim\My Documents\Visual Studio 2010\Projects\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.pdb
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.exe
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.pdb
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\bin\Debug\SimpleMVVMExample.exe
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\bin\Debug\SimpleMVVMExample.pdb
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample_MarkupCompile.cache
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample_MarkupCompile.lref
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.g.resources
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.Properties.Resources.resources
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\ApplicationView.baml
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\ApplicationView.g.cs
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\Home\HomeView.baml
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\Home\HomeView.g.cs
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\Products\ProductsView.g.cs
+C:\Documents and Settings\Owner\Desktop\Rachel's\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\Products\ProductsView.baml
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\bin\Debug\SimpleMVVMExample.exe.config
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\bin\Debug\SimpleMVVMExample.exe
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\bin\Debug\SimpleMVVMExample.pdb
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.csproj.AssemblyReference.cache
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\Home\HomeView.baml
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\Home\HomeView.g.cs
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\ApplicationView.g.cs
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\Products\ProductsView.g.cs
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\App.g.cs
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample_MarkupCompile.cache
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample_MarkupCompile.lref
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\ApplicationView.baml
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\Products\ProductsView.baml
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.g.resources
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.Properties.Resources.resources
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.csproj.GenerateResource.cache
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.csproj.CoreCompileInputs.cache
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.exe
+C:\Users\Kamal\source\repos\SimpleMVVMExample\SimpleMVVMExample\obj\x86\Debug\SimpleMVVMExample.pdb

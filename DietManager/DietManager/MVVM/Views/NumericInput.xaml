@@ -1,0 +1,16 @@
+﻿<Window x:Class="DietManager.MVVM.Views.NumericInput"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DietManager.MVVM.Views"
+        mc:Ignorable="d"
+        Title="NumericInput" Height="150" Width="250">
+    <Grid>
+        <StackPanel>
+            <TextBox Text="{Binding InputText, UpdateSourceTrigger=PropertyChanged}" Width="100" Height ="20" Background="AliceBlue"></TextBox>
+            <Button Content="OK" HorizontalAlignment="Center" VerticalAlignment="Center" IsEnabled="{Binding IsOKEnabled, UpdateSourceTrigger=PropertyChanged}" Height ="30" Width="100" Margin="0 20 0  20" Command="{Binding OKCommand}"></Button>
+        </StackPanel>
+
+    </Grid>
+</Window>
